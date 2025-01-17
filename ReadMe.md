@@ -1,5 +1,5 @@
-# 💫 About Me:
-Estudante de Front End<br>Estou aprendendo React e Typescript<br>Tenho 18 anos e estou fazendo estágio
+# 💫Sobre mim:
+Estudante de Front End<br>Estou aprendendo React e Typescript<br>Cursando Análise e Desenvolvimento de Sistemas <br>Tenho 18 anos e estou fazendo estágio
 
 
 # 💻 Tech Stack:
