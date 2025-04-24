@@ -1,5 +1,8 @@
 # 💫Sobre mim:
-Estudante de Front End<br>Estou aprendendo React e Typescript<br>Cursando Análise e Desenvolvimento de Sistemas <br>Tenho 18 anos e estou fazendo estágio
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas | Estagiário de Front-End
+🎓 Cursando o 3º termo da faculdade e estagiando há 6 meses.
+💡 Atualmente, estou me aprofundando em React e TypeScript.
+🚀 Sempre em busca de aprender mais sobre desenvolvimento web, criando projetos práticos e buscando desafios para aprimorar minhas habilidades.
 
 
 # 💻 Tech Stack:
